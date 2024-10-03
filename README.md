@@ -1,2 +1,1 @@
-# gha3
-GitHub Action training day 1
+# Hello from my `gh` CLI!
